@@ -15,6 +15,5 @@ lf mac y linux
 CR= Carriage Return
 LF=line feed
 A=65=01000001
-puede ser un problma, esto se soluciona con git 
 
-
+puede ser un problma, esto se soluciona con git
