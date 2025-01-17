@@ -10,10 +10,10 @@ But who has any right to find fault with a man who chooses to enjoy a pleasure t
 
 utf-8 >> final de línea o representar una nueva línea. Casa sistema usa el caracter que quieran para representar una nueva línea
 
-windows crlf
+#windows crlf
 lf mac y linux
 CR= Carriage Return
 LF=line feed
 A=65=01000001
 
-puede ser un problma, esto se soluciona con git
+#puede ser un problma, esto se soluciona con git
